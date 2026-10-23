@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Environments
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training artifacts (adapters and checkpoints live on Google Drive)
+checkpoints/
+outputs/
+adapters/
+wandb/
+*.safetensors
+*.bin
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
