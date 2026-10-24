@@ -20,7 +20,7 @@ This project takes **Qwen2.5-0.5B** (base) through supervised fine-tuning (SFT) 
 | --- | --- | --- |
 | Stage 1: Eval harness and baselines | [`notebooks/01_baseline.ipynb`](notebooks/01_baseline.ipynb) | Done |
 | Stage 2: LoRA SFT | [`notebooks/02_sft.ipynb`](notebooks/02_sft.ipynb) | Done |
-| Stage 3: GRPO on top of SFT | `notebooks/03_grpo.ipynb` | Planned |
+| Stage 3: GRPO on top of SFT | [`notebooks/03_grpo.ipynb`](notebooks/03_grpo.ipynb) | In progress |
 
 Final results and findings: [`writeup.md`](writeup.md).
 
