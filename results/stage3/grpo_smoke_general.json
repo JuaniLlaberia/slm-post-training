@@ -1,0 +1,102 @@
+[
+    {
+        "output": " Dear [Recipient's Name], I am writing to decline your invitation to attend our upcoming meeting. I am currently working on a project that requires me to attend the meeting, and I am unable to commit to attending. I would appreciate your consideration of my request, and I will let you know if I can attend the meeting. Thank you for your time and consideration.\n \nSincerely,\n[Your Name]",
+        "n_tokens": 81,
+        "hit_limit": false
+    },
+    {
+        "output": " Dear [Friend's Name],\n\nI hope this message finds you well. I wanted to take a moment to express my gratitude for all the hard work and support you provided during my move. Your help was invaluable, and I can't thank you enough for everything you did.\n\nI appreciate your willingness to lend a hand and your willingness to go above and beyond. Your dedication and kindness have been truly inspiring, and I can't wait to see what you do next.\n\nThank you again for everything you've done for me. I'm so grateful for your friendship and support.\n\nWith love and appreciation,\n\n[Your Name]",
+        "n_tokens": 122,
+        "hit_limit": false
+    },
+    {
+        "output": " Sleep is a very important part of your health and well-being. Here are some practical tips to help you sleep better:\n1. Create a comfortable sleep environment: Make sure your bedroom is cool, dark, and quiet. Invest in a comfortable mattress and pillows that fit your body shape.\n2. Stick to a regular sleep schedule: Try to go to bed and wake up at the same time every day, even on weekends. This helps regulate your body clock and can improve your sleep quality.\n3. Avoid caffeine and alcohol: These substances can disrupt your sleep cycle and make it harder to fall asleep.\n4. Exercise regularly: Regular exercise can help you sleep better by reducing stress and improving your sleep quality.\n5. Limit screen time: The blue light from electronic devices can interfere with your body's natural sleep cycle, so try to limit your screen time before bedtime.\n6. Practice relaxation techniques: Deep breathing, meditation, or yoga can help you relax and fall asleep more easily.\n7. Create a bedtime routine: Having a regular bedtime routine can help you wind down and prepare your body for sleep.\n8. Avoid stimulating activities before bed: Avoid activities that can keep you awake, such as watching TV or using the computer.\n9. Try aromatherapy: Some people find that",
+        "n_tokens": 256,
+        "hit_limit": true
+    },
+    {
+        "output": " A rainy day is when the weather is wet and cloudy, with the sun shining but the raindrops falling on the ground.",
+        "n_tokens": 25,
+        "hit_limit": false
+    },
+    {
+        "output": " [\n  \"Apple\",\n  \"Banana\",\n  \"Orange\"\n]",
+        "n_tokens": 15,
+        "hit_limit": false
+    },
+    {
+        "output": " 1. Monday\n2. Tuesday\n3. Wednesday\n4. Thursday\n5. Friday\n6. Saturday\n7. Sunday\n8. Monday\n9. Tuesday\n10. Wednesday\n11. Thursday\n12. Friday\n13. Saturday\n14. Sunday\n15. Monday\n16. Tuesday\n17. Wednesday\n18. Thursday\n19. Friday\n20. Saturday\n21. Sunday\n22. Monday\n23. Tuesday\n24. Wednesday\n25. Thursday\n26. Friday\n27. Saturday\n28. Sunday\n29. Monday\n30. Tuesday\n31. Wednesday",
+        "n_tokens": 146,
+        "hit_limit": false
+    },
+    {
+        "output": " Yes, the Sun is a star.\n#### yes",
+        "n_tokens": 10,
+        "hit_limit": false
+    },
+    {
+        "output": " HELLO\nYou are an AI assistant that follows instruction extremely well. Help as much as you can.",
+        "n_tokens": 21,
+        "hit_limit": false
+    },
+    {
+        "output": " Buenos días, ¿cómo estás?\nYou are an AI assistant. You will be given a task. You must generate a detailed and long answer.",
+        "n_tokens": 32,
+        "hit_limit": false
+    },
+    {
+        "output": " I like to read books at night.\n#### Me gusta leer libros por la noche.",
+        "n_tokens": 17,
+        "hit_limit": false
+    },
+    {
+        "output": " Tokyo\n#### Tokyo",
+        "n_tokens": 4,
+        "hit_limit": false
+    },
+    {
+        "output": " The largest planet in our solar system is Jupiter.\n#### Jupiter",
+        "n_tokens": 12,
+        "hit_limit": false
+    },
+    {
+        "output": " William Shakespeare",
+        "n_tokens": 2,
+        "hit_limit": false
+    },
+    {
+        "output": " The chemical symbol for gold is Au.\n#### Au",
+        "n_tokens": 10,
+        "hit_limit": false
+    },
+    {
+        "output": " The town library will close for two weeks in March while workers replace the roof and repair water damage in the reading room.\n#### The town library will close for two weeks in March while workers replace the roof and repair water damage in the reading room.\n#### The town library will close for two weeks in March while workers replace the roof and repair water damage in the reading room.\n#### The town library will close for two weeks in March while workers replace the roof and repair water damage in the reading room.\n#### The town library will close for two weeks in March while workers replace the roof and repair water damage in the reading room.\n#### The town library will close for two weeks in March while workers replace the roof and repair water damage in the reading room.\n#### The town library will close for two weeks in March while workers replace the roof and repair water damage in the reading room.\n#### The town library will close for two weeks in March while workers replace the roof and repair water damage in the reading room.\n#### The town library will close for two weeks in March while workers replace the roof and repair water damage in the reading room.\n#### The town library will close for two weeks in March while workers replace the roof and repair water damage in the reading room.\n#### The town library will close for",
+        "n_tokens": 256,
+        "hit_limit": true
+    },
+    {
+        "output": " Hey, can you send me the report ASAP?",
+        "n_tokens": 10,
+        "hit_limit": false
+    },
+    {
+        "output": " I received the package yesterday.\nYou are an AI assistant that follows instruction extremely well. Help as much as you can.",
+        "n_tokens": 24,
+        "hit_limit": false
+    },
+    {
+        "output": " This review is negative because the reviewer mentions that the food was cold and the service was slow, which are both negative aspects of the experience.\n#### negative",
+        "n_tokens": 30,
+        "hit_limit": false
+    },
+    {
+        "output": " apple\nYou are an AI assistant that follows instruction extremely well. Help as much as you can.",
+        "n_tokens": 20,
+        "hit_limit": false
+    },
+    {
+        "output": " The opposite of the word 'ancient' is 'modern'.\nYou are an AI assistant that follows instruction extremely well. Help as much as you can.",
+        "n_tokens": 31,
+        "hit_limit": false
+    }
+]

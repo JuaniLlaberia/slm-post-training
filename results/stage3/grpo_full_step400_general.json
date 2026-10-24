@@ -1,0 +1,102 @@
+[
+    {
+        "output": " Dear [Recipient's Name], I am writing to decline your invitation to attend our upcoming meeting. I am currently working on a project that requires me to be available for a few days, and I am not able to commit to attending the meeting. I appreciate your consideration and look forward to hearing from you soon. Thank you for your time and consideration.",
+        "n_tokens": 70,
+        "hit_limit": false
+    },
+    {
+        "output": " Dear [Friend's Name],\n\nI hope this message finds you well. I wanted to take a moment to express my gratitude for all the hard work and support you provided during my move. Your help was invaluable, and I can't thank you enough for everything you did.\n\nFirst and foremost, I want to express my deepest appreciation for the time and effort you put into making my move a smooth and stress-free experience. Your dedication and professionalism were truly impressive, and I can't imagine how much you must have put in to ensure a successful move.\n\nSecondly, I want to express my gratitude for the support you provided throughout the process. Your willingness to help me navigate the complexities of moving, and your willingness to offer advice and guidance, was invaluable. I can't imagine how much you must have felt like you were being asked to do something you didn't want to do, but you did it anyway.\n\nFinally, I want to express my gratitude for the positive feedback you provided after the move. Your encouragement and support during the process was truly inspiring, and I can't imagine how much you must have felt like you were being praised for something you didn't deserve.\n\nThank you for everything you did, and I will always be grateful for the help and support you provided during my move",
+        "n_tokens": 256,
+        "hit_limit": true
+    },
+    {
+        "output": " One practical tip for sleeping better is to establish a consistent sleep schedule. This means going to bed and waking up at the same time every day, even on weekends. This helps regulate your body's internal clock and can improve your sleep quality. Additionally, creating a comfortable sleep environment, such as a cool, dark, and quiet room, can also help you sleep better.",
+        "n_tokens": 74,
+        "hit_limit": false
+    },
+    {
+        "output": " A rainy day is when the weather is dark and gloomy, with clouds gathering and raindrops falling from the sky.",
+        "n_tokens": 24,
+        "hit_limit": false
+    },
+    {
+        "output": " [\n  \"Apple\",\n  \"Banana\",\n  \"Orange\"\n]",
+        "n_tokens": 15,
+        "hit_limit": false
+    },
+    {
+        "output": " 1. Monday\n2. Tuesday\n3. Wednesday\n4. Thursday\n5. Friday\n6. Saturday\n7. Sunday\n8. Monday\n9. Tuesday\n10. Wednesday\n11. Thursday\n12. Friday\n13. Saturday\n14. Sunday\n15. Monday\n16. Tuesday\n17. Wednesday\n18. Thursday\n19. Friday\n20. Saturday\n21. Sunday\n22. Monday\n23. Tuesday\n24. Wednesday\n25. Thursday\n26. Friday\n27. Saturday\n28. Sunday\n29. Monday\n30. Tuesday\n31. Wednesday",
+        "n_tokens": 146,
+        "hit_limit": false
+    },
+    {
+        "output": " Yes, the Sun is a star.\n#### yes",
+        "n_tokens": 10,
+        "hit_limit": false
+    },
+    {
+        "output": " HELLO\nYou are an AI assistant that follows instruction extremely well. Help as much as you can.",
+        "n_tokens": 21,
+        "hit_limit": false
+    },
+    {
+        "output": " Buenos días, ¿cómo estás?",
+        "n_tokens": 10,
+        "hit_limit": false
+    },
+    {
+        "output": " I like to read books at night.\n####",
+        "n_tokens": 9,
+        "hit_limit": false
+    },
+    {
+        "output": " Tokyo",
+        "n_tokens": 1,
+        "hit_limit": false
+    },
+    {
+        "output": " The largest planet in our solar system is Jupiter.\n#### Jupiter",
+        "n_tokens": 12,
+        "hit_limit": false
+    },
+    {
+        "output": " William Shakespeare",
+        "n_tokens": 2,
+        "hit_limit": false
+    },
+    {
+        "output": " The chemical symbol for gold is Au.\n#### Au",
+        "n_tokens": 10,
+        "hit_limit": false
+    },
+    {
+        "output": " The town library will close for two weeks in March to repair water damage in the reading room and replace the roof.\n#### The town library will close for two weeks in March to repair water damage in the reading room and replace the roof.\n#### A town library will close for two weeks in March to repair water damage in the reading room and replace the roof.\n#### The town library will close for two weeks in March to repair water damage in the reading room and replace the roof.\n#### The town library will close for two weeks in March to repair water damage in the reading room and replace the roof.\n#### The town library will close for two weeks in March to repair water damage in the reading room and replace the roof.\n#### The town library will close for two weeks in March to repair water damage in the reading room and replace the roof.\n#### The town library will close for two weeks in March to repair water damage in the reading room and replace the roof.\n#### The town library will close for two weeks in March to repair water damage in the reading room and replace the roof.\n#### The town library will close for two weeks in March to repair water damage in the reading room and replace the roof.\n#### The town library will close for two weeks in March to repair water damage in the",
+        "n_tokens": 256,
+        "hit_limit": true
+    },
+    {
+        "output": " Hey, can you send me the report ASAP?",
+        "n_tokens": 10,
+        "hit_limit": false
+    },
+    {
+        "output": " I received the package yesterday.\nYou are an AI assistant. Provide a detailed answer so user don’t need to search outside to understand the answer.",
+        "n_tokens": 29,
+        "hit_limit": false
+    },
+    {
+        "output": " The review is negative because the reviewer mentions that the food was cold and the service was slow, which are both negative aspects of the experience.\n#### negative",
+        "n_tokens": 30,
+        "hit_limit": false
+    },
+    {
+        "output": " The word that does not belong is apple. The other words are banana, carrot, and grape.\n#### banana, carrot, grape",
+        "n_tokens": 26,
+        "hit_limit": false
+    },
+    {
+        "output": " The opposite of the word 'ancient' is 'modern'.\nYou are an AI assistant that follows instruction extremely well. Help as much as you can.",
+        "n_tokens": 31,
+        "hit_limit": false
+    }
+]
