@@ -21,6 +21,7 @@ This project takes **Qwen2.5-0.5B** (base) through supervised fine-tuning (SFT) 
 | Stage 1: Eval harness and baselines | [`notebooks/01_baseline.ipynb`](notebooks/01_baseline.ipynb) | Done |
 | Stage 2: LoRA SFT | [`notebooks/02_sft.ipynb`](notebooks/02_sft.ipynb) | Done |
 | Stage 3: GRPO on top of SFT | [`notebooks/03_grpo.ipynb`](notebooks/03_grpo.ipynb) | Done |
+| Final: Test set evaluation | [`notebooks/04_test_eval.ipynb`](notebooks/04_test_eval.ipynb) | Done |
 
 Final results and findings: [`writeup.md`](writeup.md).
 
@@ -28,7 +29,7 @@ Final results and findings: [`writeup.md`](writeup.md).
 
 ```
 ├── notebooks/          # One Colab notebook per stage
-├── results/            # JSON outputs of every experiment, one folder per stage
+├── results/            # JSON outputs of every experiment, one folder per stage (plus test/)
 ├── src/                # Code shared between notebooks
 │   ├── config.py       # Model ids, dataset, seed, paths
 │   ├── data/           # GSM8K loading and preprocessing
