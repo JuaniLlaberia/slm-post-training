@@ -10,7 +10,7 @@ This project takes **Qwen2.5-0.5B** (base) through supervised fine-tuning (SFT) 
 | Reference | [`Qwen2.5-0.5B-Instruct`](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct) |
 | Data | [`openai/gsm8k`](https://huggingface.co/datasets/openai/gsm8k), config `main` (7,473 train / 1,319 test) |
 | Training | TRL `SFTTrainer`, `GRPOTrainer` + PEFT (LoRA) |
-| Hardware | Google Colab, L4 GPU |
+| Hardware | Google Colab, L4 GPU (A100 for Stage 3) |
 
 **Answer format.** Reasoning steps, then a final line `#### <number>`, the format GSM8K already uses. The same format is used for the SFT targets, the GRPO reward and eval extraction.
 
@@ -20,7 +20,7 @@ This project takes **Qwen2.5-0.5B** (base) through supervised fine-tuning (SFT) 
 | --- | --- | --- |
 | Stage 1: Eval harness and baselines | [`notebooks/01_baseline.ipynb`](notebooks/01_baseline.ipynb) | Done |
 | Stage 2: LoRA SFT | [`notebooks/02_sft.ipynb`](notebooks/02_sft.ipynb) | Done |
-| Stage 3: GRPO on top of SFT | [`notebooks/03_grpo.ipynb`](notebooks/03_grpo.ipynb) | In progress |
+| Stage 3: GRPO on top of SFT | [`notebooks/03_grpo.ipynb`](notebooks/03_grpo.ipynb) | Done |
 
 Final results and findings: [`writeup.md`](writeup.md).
 
@@ -33,7 +33,8 @@ Final results and findings: [`writeup.md`](writeup.md).
 │   ├── config.py       # Model ids, dataset, seed, paths
 │   ├── data/           # GSM8K loading and preprocessing
 │   ├── prompts/        # Few-shot and chat prompt builders
-│   └── evaluation/     # Answer extraction, generation, scoring, general check
+│   ├── evaluation/     # Answer extraction, generation, scoring, general check
+│   └── training/       # GRPO rewards, adapter merging
 ├── requirements.txt
 └── writeup.md          # Final write-up
 ```
@@ -49,5 +50,7 @@ Each notebook starts by cloning this repository and installing the requirements,
 
 from src.evaluation.harness import evaluate
 ```
+
+Stage 3 also installs vLLM inside its notebook (not in `requirements.txt`, since it replaces Colab's torch) and needs a runtime restart after that install.
 
 Results are written to `results/<stage>/`. Download them after each run, because `/content` is wiped when the runtime disconnects.
